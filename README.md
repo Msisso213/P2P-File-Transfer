@@ -6,6 +6,7 @@ A basic peer-to-peer (P2P) file-sharing protocol using the TCP/IP networking sta
 This system allows nodes to share and request files with each other, chunked into 512-byte pieces for transfer. 
 The project demonstrates how peers can broadcast their presence, discover other peers, and share files directly without a central server.
 
+
 ## Features
 - File chunking into 512-byte pieces
 - Peer discovery using UDP broadcasting
